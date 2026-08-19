@@ -1,4 +1,4 @@
-# AI Study Plan Generator
+# PlanToday
 
 An intelligent, AI-powered study plan generator that creates personalized learning schedules tailored to your goals, available time, and skill level. Built with React, Node.js, Express, MongoDB, and Google's Gemini AI.
 
